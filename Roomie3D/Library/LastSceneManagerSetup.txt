@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/3.3.2quiz.unity
+- path: Assets/Scenes/3.3.16quiz_ans.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

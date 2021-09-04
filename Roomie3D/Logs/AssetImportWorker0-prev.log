@@ -15,11 +15,11 @@ C:/Users/Sapir/Desktop/Roomie3D-main/Roomie3D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-57204
+59229
 Successfully changed project path to: C:/Users/Sapir/Desktop/Roomie3D-main/Roomie3D
 C:/Users/Sapir/Desktop/Roomie3D-main/Roomie3D
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 198.70 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 107.26 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -35,40 +35,40 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56368
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.005824 seconds.
+Registered in 0.026847 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 51.25 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 123.80 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  3.841 seconds
+- Completed reload, in 16.832 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.006914 seconds.
+Registered in 0.029141 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.921 seconds
+- Completed reload, in  2.098 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
-Refreshing native plugins compatible for Editor in 0.45 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1390 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 65.1 MB.
-System memory in use after: 65.1 MB.
+System memory in use before: 65.0 MB.
+System memory in use after: 65.0 MB.
 
 Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1824.
-Total: 2.857000 ms (FindLiveObjects: 0.228700 ms CreateObjectMapping: 0.074400 ms MarkObjects: 2.430700 ms  DeleteObjects: 0.121200 ms)
+Total: 4.152500 ms (FindLiveObjects: 0.300500 ms CreateObjectMapping: 0.116700 ms MarkObjects: 3.564200 ms  DeleteObjects: 0.169400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -83,337 +83,25 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/images/quiz images/35Capture.PNG
-  artifactKey: Guid(2ba23e48fd3e034428f18b33a7db9231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/35Capture.PNG using Guid(2ba23e48fd3e034428f18b33a7db9231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cea559f44a175157bbc3971176f99e72') in 0.170417 seconds 
-  Import took 0.174044 seconds .
+  path: Assets/Scenes/3.3.1quiz.unity
+  artifactKey: Guid(c69df408af25da34886c517c7c536143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.3.1quiz.unity using Guid(c69df408af25da34886c517c7c536143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558937c85615bb613ed1c7c88d1fc4cf') in 0.037182 seconds 
+  Import took 0.041636 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000476 seconds.
-  path: Assets/images/quiz images/25Capture.PNG
-  artifactKey: Guid(9fe0dcb9bb231994dabd47dfa7f51590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/25Capture.PNG using Guid(9fe0dcb9bb231994dabd47dfa7f51590) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f603a11e523242f94fb2a95de40e7fc2') in 0.076002 seconds 
-  Import took 0.080180 seconds .
+  Time since last request: 0.000273 seconds.
+  path: Assets/Scenes/3.3.2quiz.unity
+  artifactKey: Guid(ced1b57a8c643c74983e6f0bc56ab210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.3.2quiz.unity using Guid(ced1b57a8c643c74983e6f0bc56ab210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6932566675db56bce6d2d2878a600096') in 0.029658 seconds 
+  Import took 0.043174 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000345 seconds.
-  path: Assets/images/quiz images/Capture.PNG
-  artifactKey: Guid(f55afb097688d154c9cda97803b968ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/Capture.PNG using Guid(f55afb097688d154c9cda97803b968ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc4c6db8decdea81e0bf6cc964531001') in 0.050520 seconds 
-  Import took 0.058129 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000394 seconds.
-  path: Assets/images/quiz images/19Capture.PNG
-  artifactKey: Guid(013788b46369f224a879345387fce798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/19Capture.PNG using Guid(013788b46369f224a879345387fce798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc419ee81868f0c04936c643b249c6c') in 0.056106 seconds 
-  Import took 0.064099 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000115 seconds.
-  path: Assets/images/quiz images/7Capture.PNG
-  artifactKey: Guid(55fefa95ba5602e47a8e99cbef1f449e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/7Capture.PNG using Guid(55fefa95ba5602e47a8e99cbef1f449e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a952b9ce5a5c92c30cb5d315a91c2af0') in 0.053966 seconds 
-  Import took 0.058538 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000265 seconds.
-  path: Assets/images/quiz images/4Capture.PNG
-  artifactKey: Guid(e2a1ac646c96b4b44a137f3ac308be35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/4Capture.PNG using Guid(e2a1ac646c96b4b44a137f3ac308be35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89127528ef6444ce0c40b6509b641440') in 0.058539 seconds 
-  Import took 0.062091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000279 seconds.
-  path: Assets/images/quiz images/20Capture.PNG
-  artifactKey: Guid(5f47504221e1bfc48a7bdb0d2d8ae4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/20Capture.PNG using Guid(5f47504221e1bfc48a7bdb0d2d8ae4d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70808f0f01f76a8d976e451465e6fb1b') in 0.062661 seconds 
-  Import took 0.068079 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/images/quiz images/37Capture.PNG
-  artifactKey: Guid(0535941e7c3632d4c8835dacc022df07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/37Capture.PNG using Guid(0535941e7c3632d4c8835dacc022df07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bede001d611dd9712e0b534066dd2c70') in 0.047833 seconds 
-  Import took 0.052963 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000624 seconds.
-  path: Assets/images/quiz images/23Capture.PNG
-  artifactKey: Guid(2899af138181b4b4ca183bfac78392ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/23Capture.PNG using Guid(2899af138181b4b4ca183bfac78392ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8f03098ec22d4ca9fe4eb0e7302df62') in 0.041412 seconds 
-  Import took 0.046121 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/images/quiz images/28Capture.PNG
-  artifactKey: Guid(3c8b203fbcb6f2b4ebd781a6402cac95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/28Capture.PNG using Guid(3c8b203fbcb6f2b4ebd781a6402cac95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2d90e4cbceed5b4acd8d78b9683a01a') in 0.045553 seconds 
-  Import took 0.050820 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000811 seconds.
-  path: Assets/images/quiz images/8Capture.PNG
-  artifactKey: Guid(62a4605983351354fbcfa5b15c0604c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/8Capture.PNG using Guid(62a4605983351354fbcfa5b15c0604c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0072fe59e6573c2efe4f95566748fb4') in 0.059847 seconds 
-  Import took 0.070292 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001049 seconds.
-  path: Assets/images/quiz images/34Capture.PNG
-  artifactKey: Guid(33e2689fe641a9841a6396c4e3af0b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/34Capture.PNG using Guid(33e2689fe641a9841a6396c4e3af0b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4759a64b0dbf753f0d5844427f93ad17') in 0.053193 seconds 
-  Import took 0.059569 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000362 seconds.
-  path: Assets/images/quiz images/36Capture.PNG
-  artifactKey: Guid(fbcf6428a7725b04299bbbca190a1dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/36Capture.PNG using Guid(fbcf6428a7725b04299bbbca190a1dd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef3dfaf389e43e5975cb7563b90ceb2') in 0.064020 seconds 
-  Import took 0.074512 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000470 seconds.
-  path: Assets/images/quiz images/11Capture.PNG
-  artifactKey: Guid(895dcf25077add84cb5c359d856dacb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/11Capture.PNG using Guid(895dcf25077add84cb5c359d856dacb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc90e0ce560cc1673701a881468c180') in 0.091818 seconds 
-  Import took 0.119486 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000383 seconds.
-  path: Assets/images/quiz images/30Capture.PNG
-  artifactKey: Guid(f901165b41b8fdf42854e5db73278646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/30Capture.PNG using Guid(f901165b41b8fdf42854e5db73278646) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6317d609c0a3ee086b98b28ce7c2d153') in 0.082543 seconds 
-  Import took 0.090415 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000383 seconds.
-  path: Assets/images/quiz images/40Capture.PNG
-  artifactKey: Guid(297283d1a3a50fe479d28596252798b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/40Capture.PNG using Guid(297283d1a3a50fe479d28596252798b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2edca798fbfad259fc2c3b204f5647') in 0.071381 seconds 
-  Import took 0.078561 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000327 seconds.
-  path: Assets/images/quiz images/21Capture.PNG
-  artifactKey: Guid(c3d8929270304224880d07698304aa00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/21Capture.PNG using Guid(c3d8929270304224880d07698304aa00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33621c5fbfbe35c0e0a17e12260fef21') in 0.103359 seconds 
-  Import took 0.108951 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000366 seconds.
-  path: Assets/images/quiz images/2Capture.PNG
-  artifactKey: Guid(f8e74ba490bd1f34f9289944621fd423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/2Capture.PNG using Guid(f8e74ba490bd1f34f9289944621fd423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '824223a8a0539305a2109b056cf8fafd') in 0.063693 seconds 
-  Import took 0.067873 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000465 seconds.
-  path: Assets/images/quiz images/33Capture.PNG
-  artifactKey: Guid(df4fde12240e776479115e454276970f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/33Capture.PNG using Guid(df4fde12240e776479115e454276970f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d51e33f8a7c56354f6e6f45eccc4003') in 0.065677 seconds 
-  Import took 0.070103 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000389 seconds.
-  path: Assets/images/quiz images/29Capture.PNG
-  artifactKey: Guid(cca0e0c6f67994d439860400fff73066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/29Capture.PNG using Guid(cca0e0c6f67994d439860400fff73066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7214c23b4d3a6611d778a5c3b2561ae4') in 0.066904 seconds 
-  Import took 0.071674 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000474 seconds.
-  path: Assets/images/quiz images/16Capture.PNG
-  artifactKey: Guid(c7b750383c95aa747ae0c0b75d075c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/16Capture.PNG using Guid(c7b750383c95aa747ae0c0b75d075c51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5412d2aed2509e09fe496e6bbf6a488') in 0.095579 seconds 
-  Import took 0.107492 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000438 seconds.
-  path: Assets/images/quiz images/38Capture.PNG
-  artifactKey: Guid(46f28998c02b4334787202c0506618a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/38Capture.PNG using Guid(46f28998c02b4334787202c0506618a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5015d345c96155a207dd2804317a33e') in 0.369561 seconds 
-  Import took 0.378612 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000440 seconds.
-  path: Assets/images/quiz images/39Capture.PNG
-  artifactKey: Guid(46cec93f770aa904e899f5b6f7af9125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/39Capture.PNG using Guid(46cec93f770aa904e899f5b6f7af9125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce462812d6a17af64924aeec836a22a') in 0.261459 seconds 
-  Import took 0.271505 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000513 seconds.
-  path: Assets/images/quiz images/24Capture.PNG
-  artifactKey: Guid(34ae866ca5de72c4681fa005b2162742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/24Capture.PNG using Guid(34ae866ca5de72c4681fa005b2162742) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ce8a72de020d161938fe532995d1ea1') in 0.206659 seconds 
-  Import took 0.220855 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000815 seconds.
-  path: Assets/images/quiz images/12Capture.PNG
-  artifactKey: Guid(4a53e84ce1f219748a23c8452379eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/12Capture.PNG using Guid(4a53e84ce1f219748a23c8452379eb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36474e45bf8820fa3e7e4da6779d53cd') in 0.314828 seconds 
-  Import took 0.326090 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000453 seconds.
-  path: Assets/images/quiz images/18Capture.PNG
-  artifactKey: Guid(716744805982d0e4ebb6c9a860ae4e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/18Capture.PNG using Guid(716744805982d0e4ebb6c9a860ae4e43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edf785a341f7f7f144d0ecc2aa7ef36b') in 0.061902 seconds 
-  Import took 0.127072 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000487 seconds.
-  path: Assets/images/quiz images/27Capture.PNG
-  artifactKey: Guid(356f71ee52650ba4c8b73854da479798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/27Capture.PNG using Guid(356f71ee52650ba4c8b73854da479798) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e73fae69321b4ef8a3d6dc641d734405') in 0.237970 seconds 
-  Import took 0.247170 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000472 seconds.
-  path: Assets/images/quiz images/5Capture.PNG
-  artifactKey: Guid(e70a9bd34c1c2944fb1da2d81293fe4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/5Capture.PNG using Guid(e70a9bd34c1c2944fb1da2d81293fe4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dde35f007578ce31e9e546676e3374b8') in 0.118730 seconds 
-  Import took 0.123946 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000460 seconds.
-  path: Assets/images/quiz images/13Capture.PNG
-  artifactKey: Guid(48f319329e97fa141bef1c308705e382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/13Capture.PNG using Guid(48f319329e97fa141bef1c308705e382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060a2eb324f7eb7473454fa2b3326053') in 0.232585 seconds 
-  Import took 0.242066 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000488 seconds.
-  path: Assets/images/quiz images/22Capture.PNG
-  artifactKey: Guid(2137d04de0b5bc24582c43589db175e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/22Capture.PNG using Guid(2137d04de0b5bc24582c43589db175e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d1525d73c0e252e64c5991b81f98b4') in 0.109691 seconds 
-  Import took 0.117429 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001057 seconds.
-  path: Assets/images/quiz images/15Capture.PNG
-  artifactKey: Guid(e6017438ffc4daa42a6d1a92378ab43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/15Capture.PNG using Guid(e6017438ffc4daa42a6d1a92378ab43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a3714453009bcaabf0a4d11d6084808') in 0.117951 seconds 
-  Import took 0.125427 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000536 seconds.
-  path: Assets/images/quiz images/32Capture.PNG
-  artifactKey: Guid(75a2cd299fc006b48861c9e0bc791dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/32Capture.PNG using Guid(75a2cd299fc006b48861c9e0bc791dee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b068fe224a16e2106d9f212bd26a4f') in 0.106371 seconds 
-  Import took 0.119510 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000533 seconds.
-  path: Assets/images/quiz images/31Capture.PNG
-  artifactKey: Guid(1a67b1846dd8f404e9f9bd5990d501a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/31Capture.PNG using Guid(1a67b1846dd8f404e9f9bd5990d501a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f236d9894927959f55b4042fa2c3aa58') in 0.457830 seconds 
-  Import took 0.470906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005215 seconds.
-  path: Assets/images/quiz images/6Capture.PNG
-  artifactKey: Guid(01e14a4622501e542aec1cd21f04c22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/6Capture.PNG using Guid(01e14a4622501e542aec1cd21f04c22b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b721f5bd0407f24c3d5b12fc7632664') in 0.290514 seconds 
-  Import took 0.376310 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000560 seconds.
-  path: Assets/images/quiz images/9Capture.PNG
-  artifactKey: Guid(1c8200198194a594e84c53e9864f9991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/9Capture.PNG using Guid(1c8200198194a594e84c53e9864f9991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a50a8b2b65fe2053680fe6dbd7cbe3f') in 0.240270 seconds 
-  Import took 0.250955 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000595 seconds.
-  path: Assets/images/quiz images/14Capture.PNG
-  artifactKey: Guid(01ba39a702c1aca4aa65f197e8849a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/14Capture.PNG using Guid(01ba39a702c1aca4aa65f197e8849a9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46a1db19df147082d910c54e50c1bb85') in 0.115103 seconds 
-  Import took 0.128893 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000421 seconds.
-  path: Assets/images/quiz images/26Capture.PNG
-  artifactKey: Guid(7bb9037e796136b4a8a4fe4d9246710e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/26Capture.PNG using Guid(7bb9037e796136b4a8a4fe4d9246710e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b7657f46b83405f101eaacae7ec0bc4') in 0.132270 seconds 
-  Import took 0.141223 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002200 seconds.
-  path: Assets/images/quiz images/3Capture.PNG
-  artifactKey: Guid(70867b861e768ca4e87ab714a0d3e63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/quiz images/3Capture.PNG using Guid(70867b861e768ca4e87ab714a0d3e63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666e742fe01a71cf370583dee214ccae') in 0.147571 seconds 
-  Import took 0.156887 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 44.887212 seconds.
-  path: Assets/Scenes/2loading_game.unity
-  artifactKey: Guid(3251e95f6a21f4b44af06a76c014051b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/2loading_game.unity using Guid(3251e95f6a21f4b44af06a76c014051b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a876b4e8f62c8add769bdd4c96f4b19') in 0.027763 seconds 
-  Import took 0.035008 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 41.807649 seconds.
-  path: Assets/images/3.0settings.unity
-  artifactKey: Guid(ca7d6e66fdff4214cbc7c2784fd594c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/images/3.0settings.unity using Guid(ca7d6e66fdff4214cbc7c2784fd594c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4092996e181e5d4418fdf0604e346629') in 0.011161 seconds 
-  Import took 0.014603 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.657320 seconds.
-  path: Assets/Scenes/3.0settings.unity
-  artifactKey: Guid(9afe64820beb5a0458059e054559894b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/3.0settings.unity using Guid(9afe64820beb5a0458059e054559894b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313af79a9ba5cd42d8b7b9f7225eb3a0') in 0.015312 seconds 
-  Import took 0.030715 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001989 seconds.
-  path: Assets/Scenes/3.0settings.unity
-  artifactKey: Guid(9afe64820beb5a0458059e054559894b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/3.0settings.unity using Guid(9afe64820beb5a0458059e054559894b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313af79a9ba5cd42d8b7b9f7225eb3a0') in 0.014096 seconds 
-  Import took 0.025548 seconds .
+  Time since last request: 1.342682 seconds.
+  path: Assets/Scenes/3.3.3quiz.unity
+  artifactKey: Guid(a02c2557296600e49aed4d6ced7bbc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/3.3.3quiz.unity using Guid(a02c2557296600e49aed4d6ced7bbc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c24cbc5892880ae8c235c77595245006') in 0.161666 seconds 
+  Import took 0.170923 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
