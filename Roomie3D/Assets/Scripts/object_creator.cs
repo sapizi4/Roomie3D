@@ -16,8 +16,8 @@ public class object_creator : MonoBehaviour
     }
     private void SelectObject(int _index)
     { 
-        nextButton.interactable = (_index != 0);
-        prevButton.interactable = (_index != transform.childCount - 1);
+        prevButton.interactable = (_index != 0);
+        nextButton.interactable = (_index != transform.childCount - 1);
         for (int i = 0; i < transform.childCount; i++)
         {
             transform.GetChild(i).gameObject.SetActive(i == _index);
