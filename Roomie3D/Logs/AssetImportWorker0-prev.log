@@ -15,11 +15,11 @@ C:/Users/tairc/Documents/GitHub/Roomie3D/Roomie3D
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52565
+57339
 Successfully changed project path to: C:/Users/tairc/Documents/GitHub/Roomie3D/Roomie3D
 C:/Users/tairc/Documents/GitHub/Roomie3D/Roomie3D
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 45.71 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 44.64 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.13f1 (71691879b7f5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Resources/UnitySubsystems
@@ -35,37 +35,107 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56616
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56232
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.13f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002732 seconds.
+Registered in 0.002382 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 45.32 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 41.34 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.485 seconds
+- Completed reload, in  1.360 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004691 seconds.
+Registered in 0.004631 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-00000185A60F0CB0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A9369830 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5F343A0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5D717B0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A7C91220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5C46320 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5E09220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5ECF020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185847A81B0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5E09220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5EFD230 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A90C5090 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A7C91220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5BEA9A0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A7C91220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8154020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A97BE010 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8100020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A90C5090 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A849B520 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5F0E640 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A79C4050 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A60F4580 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A6032550 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A944CA50 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8096C50 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A7C91220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A793E3A0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A7C91220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8126230 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A90C5090 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A606B490 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5F48BB0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A621D220 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A7ED1E20 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARFoundation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.295 seconds
+- Completed reload, in  1.272 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2026 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 164.1 MB.
-System memory in use after: 164.2 MB.
+Unloading 2027 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 164.5 MB.
+System memory in use after: 164.6 MB.
 
-Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2462.
-Total: 3.212800 ms (FindLiveObjects: 0.256700 ms CreateObjectMapping: 0.087900 ms MarkObjects: 2.742600 ms  DeleteObjects: 0.124600 ms)
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2463.
+Total: 3.049000 ms (FindLiveObjects: 0.239500 ms CreateObjectMapping: 0.154700 ms MarkObjects: 2.525900 ms  DeleteObjects: 0.127600 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -79,8 +149,109 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Scenes/room_loading.unity
-  artifactKey: Guid(a1adc0ae9a59c264691f2e4b15f9550f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/room_loading.unity using Guid(a1adc0ae9a59c264691f2e4b15f9550f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a535e8f32682ec51fa18bd52560234') in 0.021898 seconds 
-  Import took 0.025943 seconds .
+  path: Assets/Scenes/4.1instructions.unity
+  artifactKey: Guid(e29019f255bb58447989b6ce1213959d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/4.1instructions.unity using Guid(e29019f255bb58447989b6ce1213959d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be47a224076fb33f6a5a54b61da08ff') in 0.021338 seconds 
+  Import took 0.025376 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007827 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-00000185A60733C0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.InternalAPIEngineBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5D02C10 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A6225230 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8D49040 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A614E020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5E33A60 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.Management.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A76DA060 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8AF0080 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185AC8BC310 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.005.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A6225230 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A6272010 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001839CAFD5E0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A790E030 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Path.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5BEA9A0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Subsystem.Registration.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185AC341020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8154020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5F13020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8100020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.UI.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A90C4AB0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A849B520 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Mathematics.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8FFF590 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185AAD06010 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A7DE0040 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8EF58D0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5C4C340 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.Management.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A5C4C340 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.Mathematics.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A614E020 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A83ADB00 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Common.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A942E030 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185AC4D7010 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185AC9009B0 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185ABD5E340 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001839CAF4560 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.Common.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185A8B1E290 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-00000185AC4D7010 doesn't match image C:\Users\tairc\Documents\GitHub\Roomie3D\Roomie3D\Library\ScriptAssemblies\Unity.XR.ARFoundation.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.104 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2007 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.9 MB.
+System memory in use after: 163.0 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 2467.
+Total: 2.319300 ms (FindLiveObjects: 0.176700 ms CreateObjectMapping: 0.078600 ms MarkObjects: 1.970600 ms  DeleteObjects: 0.092700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
