@@ -1,0 +1,9 @@
+﻿  try.cpp
+C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\kinect_cpp_preprocessing\src\try.cpp(42,9): warning C4551: function call missing argument list
+C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\kinect_cpp_preprocessing\src\try.cpp(48,9): warning C4551: function call missing argument list
+C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\kinect_cpp_preprocessing\src\try.cpp(58,10): warning C4551: function call missing argument list
+C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\kinect_cpp_preprocessing\src\try.cpp(67,10): warning C4551: function call missing argument list
+C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\kinect_cpp_preprocessing\src\try.cpp(73,10): warning C4551: function call missing argument list
+C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\kinect_cpp_preprocessing\src\try.cpp(80,11): warning C4551: function call missing argument list
+C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\kinect_cpp_preprocessing\src\try.cpp(104,17): warning C4551: function call missing argument list
+  kinect_cpp_preprocessing.vcxproj -> C:\Users\tairc\Documents\3d\kinect_cpp_preprocessing\bin\Debug-windows-x86_64\kinect_cpp_preprocessing\kinect_cpp_preprocessing.exe
