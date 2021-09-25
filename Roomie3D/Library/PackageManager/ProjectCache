@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637669776486890106
-    m_Hash: 327346323
+      ticks: 637674609483546506
+    m_Hash: 205437550
   m_LockFileStatus:
     m_FilePath: C:/Users/barfr/Documents/GitHub/Roomie3D/Roomie3D/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637669783350476001
-    m_Hash: 3714527822
+      ticks: 637674609483546506
+    m_Hash: 3788080849
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
