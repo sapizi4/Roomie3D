@@ -4,5 +4,101 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1main_screen.unity
+    guid: 03b93217e8186f64480825cd0288f9de
+  - enabled: 1
+    path: Assets/Scenes/2loading_game.unity
+    guid: 3251e95f6a21f4b44af06a76c014051b
+  - enabled: 1
+    path: Assets/Scenes/3.0settings.unity
+    guid: 9afe64820beb5a0458059e054559894b
+  - enabled: 1
+    path: Assets/Scenes/3.1design_a_corner.unity
+    guid: 20da8abe2c6b36d479090eae00fb32e7
+  - enabled: 1
+    path: Assets/Scenes/3.2design_a_new_room.unity
+    guid: f8c4969e30861494e9353c8fdd007900
+  - enabled: 1
+    path: Assets/Scenes/3.3.0style_quiz.unity
+    guid: bcf190c97aed67a44a7403a1d221541f
+  - enabled: 1
+    path: Assets/Scenes/3.3.1quiz.unity
+    guid: c69df408af25da34886c517c7c536143
+  - enabled: 1
+    path: Assets/Scenes/3.3.2quiz.unity
+    guid: ced1b57a8c643c74983e6f0bc56ab210
+  - enabled: 1
+    path: Assets/Scenes/3.3.3quiz.unity
+    guid: a02c2557296600e49aed4d6ced7bbc0f
+  - enabled: 1
+    path: Assets/Scenes/3.3.4quiz.unity
+    guid: 0d881aeaa9add7345b831a5c5adc2b92
+  - enabled: 1
+    path: Assets/Scenes/3.3.5quiz.unity
+    guid: 48f49d57e214507499a556a737ecb374
+  - enabled: 1
+    path: Assets/Scenes/3.3.6quiz.unity
+    guid: 03fabbfb60ea27f4ea45076c6c95bfc6
+  - enabled: 1
+    path: Assets/Scenes/3.3.7quiz_ans.unity
+    guid: 55fe1e032397f4b4fb74db8a0a1c630f
+  - enabled: 1
+    path: Assets/Scenes/3.3.8quiz_ans.unity
+    guid: 1cc240e97836dfa488fec5e406076768
+  - enabled: 1
+    path: Assets/Scenes/3.3.9quiz_ans.unity
+    guid: ded8b5fd02a414a4e9f096d18ba776cd
+  - enabled: 1
+    path: Assets/Scenes/3.3.10quiz_ans.unity
+    guid: d3cd928b02ce92f4491f8bd0845d0fe1
+  - enabled: 1
+    path: Assets/Scenes/3.3.11quiz_ans.unity
+    guid: 124df40a779ca6b4492c1a9af6ed086f
+  - enabled: 1
+    path: Assets/Scenes/3.3.12quiz_ans.unity
+    guid: 4dfcda4400618904798318824481f499
+  - enabled: 1
+    path: Assets/Scenes/3.3.13quiz_ans.unity
+    guid: 761add7e41a69044bbb3580bae718432
+  - enabled: 1
+    path: Assets/Scenes/3.3.14quiz_ans.unity
+    guid: 64f4199f4ac2f554884b0e104fd136a1
+  - enabled: 1
+    path: Assets/Scenes/3.3.15quiz_ans.unity
+    guid: 1a40fb171c3350d4988edaf9b8bc1b74
+  - enabled: 1
+    path: Assets/Scenes/3.3.16quiz_ans.unity
+    guid: 1cfdba711c22a33459c2449df8d0539f
+  - enabled: 1
+    path: Assets/Scenes/3menu.unity
+    guid: b005c74d85a88b4478d58bb050993f1a
+  - enabled: 1
+    path: Assets/Scenes/4.1instructions.unity
+    guid: e29019f255bb58447989b6ce1213959d
+  - enabled: 1
+    path: Assets/Scenes/4.2instructions.unity
+    guid: b359685f91a721b409d4652c8d1efd6e
+  - enabled: 1
+    path: Assets/Scenes/4.3instructions.unity
+    guid: 3f568ef5c81cf7144a7d49ea52286521
+  - enabled: 1
+    path: Assets/Scenes/color_picker.unity
+    guid: c071cfbb9986f324e837dc4f276d4758
+  - enabled: 1
+    path: Assets/Scenes/database_1.unity
+    guid: 86637fc49272f074e800c50d355ad83d
+  - enabled: 1
+    path: Assets/Scenes/finish.unity
+    guid: 45fdd6ec94acabf4ca9b145f6b4ebf98
+  - enabled: 1
+    path: Assets/Scenes/New Scene.unity
+    guid: 572ac30b08879f1498cdb982b2b72c0a
+  - enabled: 1
+    path: Assets/Scenes/room_loading.unity
+    guid: a1adc0ae9a59c264691f2e4b15f9550f
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
